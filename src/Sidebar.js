@@ -29,7 +29,7 @@ function Sidebar() {
                         </tr>
                     </table>
                 </div>
-            </div>
+            </div> 
             
     )
 }
